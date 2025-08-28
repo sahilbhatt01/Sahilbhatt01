@@ -9,7 +9,7 @@
 - 🔭 Currently working on **Full-Stack Projects** (React + Node.js + MongoDB)  
 - 🌱 Learning **Cloud (AWS, Docker, CI/CD)**  
 - 💬 Ask me about **React, Node.js, SQL, Git**  
-- 📫 Reach me at: **youremail@gmail.com**  
+- 📫 Reach me at: **sahilbhatt540@gmail.com**  
 - ⚡ Fun fact: I love building projects that solve **real-world problems**  
 
 ---
@@ -34,10 +34,8 @@
 ---
 
 ## 🌍 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilbhatt01/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/yourusername/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-green?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://sahilbhatt.me/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-bhatt-a518132ba/)   
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://my-portfolio-xi-lake-24.vercel.app/)  
 
 ---
 ⭐️ From [Sahil Bhatt](https://github.com/sahilbhatt01)
