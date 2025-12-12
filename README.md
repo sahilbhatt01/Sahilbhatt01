@@ -1,103 +1,105 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1C1C1C&height=200&section=header&text=Sahil%20Bhatt&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Sahil Bhatt" />
+<!-- --------------------------------------------------------- -->
+<!--                 SAHIL BHATT - GITHUB README             -->
+<!-- --------------------------------------------------------- -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+There+👋,+I'm+Sahil+Bhatt!;Full-Stack+Developer+%7C+Open+Source+Contributor;I+Build+Modern+Web+Apps+with+React+%2B+Node.js;Passionate+about+Solving+Real+World+Problems" />
+
+---
+
+## 🧑‍💻 **About Me**
+I'm a **Full-Stack Developer** with **2+ years of professional experience** building scalable, performant, and maintainable web applications. I specialize in **modern JavaScript ecosystems** and enjoy creating **dynamic user experiences**.  
+
+My focus areas include:
+- **Frontend:** Next.js, React.js, Tailwind CSS, Material-UI  
+- **Backend:** Node.js, Express, REST APIs, Prisma, Supabase  
+- **Databases:** MongoDB, PostgreSQL, MySQL  
+- **DevOps & Tools:** Docker, Git, GitHub, Cloudflare, CI/CD workflows  
+
+**Currently exploring:** **AWS, N8N Automations, Advanced Cloud Deployments, and DevOps pipelines**  
+
+📬 **Reach me at:** [sahilbhatt540@gmail.com](mailto:sahilbhatt540@gmail.com)
+
+---
+
+## 🛠️ **Tech Stack & Skills**
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,materialui" />
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+👨‍💻;React+%7C+Next.js+%7C+Node.js+%7C+Supabase;Shopify+Developer+%7C+Automation+%7C+N8N;Clean+Code+.+Modern+UI+.+Scalable+Backend+🚀" alt="typing" />
+### **Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,supabase" />
+</p>
+
+### **Tools & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,cloudflare" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
-Minimal. Clean. Professional. Focused.
+## 📌 **Featured Projects**
 
-I build **full-stack applications**, **custom Shopify themes**, and **high-performance backend systems** using modern technologies.
+### 🚀 **Grasstaken — Modern E-Commerce Platform**
+- Built with **Shopify**  
+- Optimized for **performance, speed & UX**  
+- Dynamic product displays, variant swatches, and custom filters  
 
-**Current focus:**
-- ⚛️ Frontend: React, Next.js, Tailwind, ShadCN UI  
-- 🖥️ Backend: Node.js, Express, Supabase, Prisma  
-- 🔄 Automation: N8N workflows & API integrations  
-- 🛒 Shopify: custom themes & merchant workflows  
-- 🐳 DevOps: Docker, CI/CD basics, Vercel deployments  
-- 🎯 Building production-ready features, performant UIs, and reliable backends
+### 🛍️ **Black Fashion Fair — Fashion Marketplace**
+- Custom Shopify theme improvements  
+- Enhanced UI/UX for seamless shopping experience  
 
----
+### 🧬 **The Plymouth — High-End Shopify Store**
+- Clean, responsive product pages  
+- Frontend performance and mobile optimization  
 
-# 🛠️ Tech Stack
+### 🎨 **Portfolio v2 — Next.js + 3D UI**
+- Interactive portfolio with **Framer Motion & Tailwind**  
+- Modern animations and 3D user interface  
 
-**Frontend**  
-`React.js` • `Next.js` • `TailwindCSS` • `Material UI` • `ShadCN UI` • `Framer Motion`
-
-**Backend**  
-`Node.js` • `Express.js` • `Supabase` • `Prisma` • `REST APIs` • `JWT Auth`
-
-**Databases**  
-`MongoDB` • `PostgreSQL` • `MySQL`
-
-**Tools / DevOps**  
-`Git` • `GitHub` • `Docker` • `N8N` • `Postman` • `Vercel` • `Figma`
+### 🧪 **WebbyWolf Landing Page — Next.js**
+- Pixel-perfect **Figma → Next.js** conversion  
+- Fully responsive and optimized  
 
 ---
 
-# 📌 Featured Projects
+## 📊 **GitHub Analytics**
 
-### 🚀 Grasstaken
-**Premium Shopify eCommerce**  
-- Custom theme development, dynamic product layouts, performance optimizations  
-🔗 https://grasstaken.com
+### ⭐ **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilbhatt01&show_icons=true&theme=tokyonight&hide_border=true)
 
-### 🎨 Webbywolf Landing (Next.js)
-Figma-to-Next.js responsive marketing landing page.  
-🔗 https://webbywolf-project.vercel.app
+### 🔥 **GitHub Streak**
+![GitHub Streak](https://streak-stats.demolab.com?user=sahilbhatt01&theme=tokyonight&hide_border=true)
 
-### 💼 Personal Portfolio
-3D sections, animations, and dynamic content.  
-🔗 https://sahil-portfolio-001.vercel.app
-
-### 🛍️ Other Shopify Stores
-- The Plymouth — https://theplymouth.com  
-- Black Fashion Fair — https://blackfashionfair.org  
-- Theophilio — https://theophilio.com  
-- Fancy Peasant — https://fancypeasant.com
+### 📘 **Top Languages**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbhatt01&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=sahilbhatt01&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=sahilbhatt01&theme=transparent&hide_border=true" alt="Streak stats" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbhatt01&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+## 🏆 **GitHub Achievements**
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilbhatt01&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# 🎞️ Skill Icons (SVG)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,tailwind,mongodb,postgres,mysql,git,docker,figma,vercel" alt="skill icons" />
-</p>
+## 🌐 **Connect With Me**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-xi-lake-24.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-bhatt-a518132ba/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilbhatt01)  
 
 ---
 
-# 🌍 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/sahil-bhatt-a518132ba/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://my-portfolio-xi-lake-24.vercel.app/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:sahilbhatt540@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### 💡 **Professional Highlights**
+- Delivered **end-to-end web solutions** for multiple Shopify clients  
+- Built **dynamic, high-performance applications** using modern JavaScript & TypeScript  
+- Experienced in **API integrations, automation workflows (N8N, Supabase), and cloud deployments**  
+- Strong **problem-solving skills** with a focus on scalable, maintainable code  
+- Contributor to **open-source projects** and active in **developer communities**  
 
-<!-- FOOTER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:36BCF7&height=150&section=footer" alt="footer" />
-</p>
+---
+
+### 🎉 **Thanks for visiting my profile!**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
