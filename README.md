@@ -7,7 +7,7 @@
 ---
 
 ## 🧑‍💻 **About Me**
-I'm a **Full-Stack Developer** with **2+ years of professional experience** building scalable, performant, and maintainable web applications. I specialize in **modern JavaScript ecosystems** and enjoy creating **dynamic user experiences**.  
+I'm a **Full-Stack Developer** with **3+ years of professional experience** building scalable, performant, and maintainable web applications. I specialize in **modern JavaScript ecosystems** and enjoy creating **dynamic user experiences**.  
 
 My focus areas include:
 - **Frontend:** Next.js, React.js, Tailwind CSS, Material-UI  
