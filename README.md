@@ -12,8 +12,8 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=sahilbhatt01&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/sahilbhatt01?style=for-the-badge&logo=github&color=111827" />
-<img src="https://img.shields.io/github/stars/sahilbhatt01?style=for-the-badge&logo=github&color=f59e0b" />
+<img src="https://img.shields.io/github/followers/sahilbhatt01?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/sahilbhatt01?style=for-the-badge" />
 </div>
 
 ---
